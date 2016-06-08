@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:58.898857
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 菩薩地持經
 #+PROPERTY: CBETA_ID T30n1581
 #+PROPERTY: ID KR6n0003
@@ -18,7 +18,7 @@
 北涼中印度三藏¶
 曇無讖於姑臧譯¶
 
-3淨心品
+** 3淨心品
 :PROPERTIES:
 :head: 菩薩地持次法方便處淨心品第三
 :END:
@@ -78,7 +78,7 @@
 皆是十五淨心無餘無上。如是十五淨心有¶
 大果福利。依是得無上菩提。¶
 
-4住品
+** 4住品
 :PROPERTIES:
 :head: 菩薩地持次法方便處住品第四
 :END:
